@@ -1,43 +1,38 @@
-name: John Doe
+name: Kaitlin Newson
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: kaitlin.newson@ace-net.ca
+  github: kaitlinnewson
+  linkedin: kaitlinnewson
   phone: 
   gitlab: 
-  twitter: 
+  twitter: kaitlinnewson
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MI
+    time: 2013-2015
+    university: University of Toronto
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BA
+    time: 2008-2013
+    university: University of Prince Edward Island
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
+      - NodeJS
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - HTML
+      - CSS
+      - JavaScript
 
 # Profile
 profile: |
@@ -49,9 +44,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Digital Research Consultant
+    time: 2023-Present
+    company: ACENET
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -60,18 +55,6 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
 
 publications:
   - title: Random title of paper. An interesting one.
